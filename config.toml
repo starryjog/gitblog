@@ -1,4 +1,4 @@
-base_url = "https://yihong0618.github.io/gitblog/"
+base_url = "https://starryjog.github.io/gitblog/"
 generate_feeds = true
 feed_filenames = ["rss.xml"]
 theme = "even"
