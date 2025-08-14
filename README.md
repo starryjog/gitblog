@@ -4,3 +4,9 @@ My personal blog([About Me](https://github.com/starryjog/gitblog/issues/1)) usin
 
 ## 最近更新
 - [My 2-year-old blog](https://github.com/starryjog/gitblog/issues/1)--2025-08-13
+## Birthday
+
+- [My 2-year-old blog](https://github.com/starryjog/gitblog/issues/1)--2025-08-13
+## Diary
+
+- [My 2-year-old blog](https://github.com/starryjog/gitblog/issues/1)--2025-08-13
