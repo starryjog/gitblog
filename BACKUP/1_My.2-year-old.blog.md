@@ -58,3 +58,11 @@
 我喜欢蹦泥坑、玩水、去园区玩，我要快快长高，现在已经快 90cm了。
 
 今天我2岁了，祝我生日快乐。 08.14.
+
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/e1758a7f-8c44-4624-98a1-861c8b59bd16" />
+
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/dee31bea-be40-4da2-b3e9-9f0edbb5fc20" />
+
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/4d277459-1565-4e11-91c8-077a5541e0a7" />
+
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/7d354c94-fc36-4123-845e-882553e2a736" />

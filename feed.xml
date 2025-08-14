@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/starryjog/gitblog</id><title>RSS feed of starryjog's gitblog</title><updated>2025-08-14T06:22:58.077102+00:00</updated><link href="https://github.com/starryjog/gitblog"/><link href="https://raw.githubusercontent.com/starryjog/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/starryjog/gitblog/issues/1</id><title>My 2-year-old blog</title><updated>2025-08-14T06:22:58.417405+00:00</updated><content type="html"><![CDATA[<h1>我是小豹子</h1>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/starryjog/gitblog</id><title>RSS feed of starryjog's gitblog</title><updated>2025-08-14T06:39:50.470306+00:00</updated><link href="https://github.com/starryjog/gitblog"/><link href="https://raw.githubusercontent.com/starryjog/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/starryjog/gitblog/issues/1</id><title>My 2-year-old blog</title><updated>2025-08-14T06:39:50.809896+00:00</updated><content type="html"><![CDATA[<h1>我是小豹子</h1>
 <p>大家好，我叫小豹子，是一个活泼可爱的两岁女孩。</p>
 <h2>我和妈妈</h2>
 <p>我和妈妈是形影不离的“双层巴士组合”（也叫“双面胶”），每天晚上我都要搂着妈妈睡觉，最喜欢钻进妈妈的嘎吱窝里。<br />
@@ -48,4 +48,7 @@
 <h2>小目标</h2>
 <p>我喜欢蹦泥坑、玩水、去园区玩，我要快快长高，现在已经快 90cm了。</p>
 <p>今天我2岁了，祝我生日快乐。 08.14.</p>
-]]></content><link href="https://github.com/starryjog/gitblog/issues/1"/><category term="Birthday"/><category term="Diary"/><published>2025-08-13T13:57:05+00:00</published></entry></feed>
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/e1758a7f-8c44-4624-98a1-861c8b59bd16" />
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/dee31bea-be40-4da2-b3e9-9f0edbb5fc20" />
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/4d277459-1565-4e11-91c8-077a5541e0a7" />
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/7d354c94-fc36-4123-845e-882553e2a736" />]]></content><link href="https://github.com/starryjog/gitblog/issues/1"/><category term="Birthday"/><category term="Diary"/><published>2025-08-13T13:57:05+00:00</published></entry></feed>
