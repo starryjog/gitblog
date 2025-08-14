@@ -12,6 +12,7 @@ from marko.ext.gfm import gfm as marko
 MD_HEAD = """## [Gitblog](https://starryjog.github.io/gitblog/)
 My personal blog([About Me](https://github.com/starryjog/gitblog/issues/1)) using issues and GitHub Actions
 [RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
+![](https://komarev.com/ghpvc/?username=starryjog)
 """
 
 BACKUP_DIR = "BACKUP"
